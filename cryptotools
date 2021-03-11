@@ -1,0 +1,6 @@
+pip3 install pycryptodome
+
+python3 aesCBC.py
+python3 aesCTR.py
+python3 RSAenc.py
+python3 hashDSA.py
